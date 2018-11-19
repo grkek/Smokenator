@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Smokenator</string>
+    <string name="hintAmount">შეიყვანეთ რაოდენობა</string>
+    <string name="titleAmount">ღერების რაოდენობა დღეში</string>
+    <string name="submitText">დადასტურება</string>
+</resources>
